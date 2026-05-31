@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Garima Gupta 👋
 
-<!--
-**Garima-Gupta-20/Garima-Gupta-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student (2nd Year)
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently Learning:
+- SQL
+- Power BI
+- Excel
+- AWS
+
+🏆 Achievements:
+- AWS Student Builder Group Leader
+- GSSoC Contributor
+- TCS Forage Virtual Experience Participant
+
+📚 Interests:
+- Data Analytics
+- Business Intelligence
+- Cloud Computing
+
+📫 Connect with me:
+LinkedIn: (https://www.linkedin.com/in/garima-gupta2006/)
