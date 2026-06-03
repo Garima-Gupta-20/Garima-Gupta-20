@@ -1,6 +1,6 @@
 # Hi, I'm Garima Gupta 👋
 
-🎓 BCA Student (2nd Year)
+🎓 BCA Student (Final Year)
 
 📊 Aspiring Data Analyst
 
